@@ -65,7 +65,7 @@ export async function generateMetadata({
     title: `${topic.title} Research — Peptide Education`,
     description,
     openGraph: {
-      title: `${topic.title} Research | Futurotek`,
+      title: `${topic.title} Research | Amedsi Peptides`,
       description,
     },
   };

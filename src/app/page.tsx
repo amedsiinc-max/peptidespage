@@ -21,7 +21,7 @@ export default function HomePage() {
         <div className="max-w-5xl mx-auto px-4 sm:px-6 py-16 sm:py-24">
           <AffiliateDisclosure className="mb-8 max-w-2xl" />
           <h1 className="text-4xl sm:text-5xl font-bold text-stone-900 leading-tight mb-4 max-w-3xl">
-            Futurotek: Peptide and Longevity Education
+            Amedsi Peptides: Peptide and Longevity Education
           </h1>
           <p className="text-lg text-stone-600 max-w-2xl mb-8">
             {SITE_DESCRIPTION} I share educational content from The Longevity

@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Privacy Policy",
-  description: "Privacy policy for Futurotek.",
+  description: "Privacy policy for Amedsi Peptides.",
 };
 
 export default function PrivacyPage() {

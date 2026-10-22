@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Terms of Use",
-  description: "Terms of use for Futurotek.",
+  description: "Terms of use for Amedsi Peptides.",
 };
 
 export default function TermsPage() {

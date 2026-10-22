@@ -2,7 +2,7 @@ import type { MetadataRoute } from "next";
 import topicsData from "@/data/topics.json";
 import { slugify } from "@/lib/slugify";
 
-const BASE_URL = process.env.NEXT_PUBLIC_BASE_URL ?? "https://futurotek.vercel.app";
+const BASE_URL = process.env.NEXT_PUBLIC_BASE_URL ?? "https://amedsipeptides.vercel.app";
 
 interface TopicGroup {
   group: string;

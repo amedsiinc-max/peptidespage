@@ -3,4 +3,4 @@ Allow: /
 Disallow: /admin
 Disallow: /api/
 
-Sitemap: https://futurotek.vercel.app/sitemap.xml
+Sitemap: https://amedsipeptides.vercel.app/sitemap.xml

@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Disclaimer",
-  description: "Site disclaimer for Futurotek.",
+  description: "Site disclaimer for Amedsi Peptides.",
 };
 
 export default function DisclaimerPage() {

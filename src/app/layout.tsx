@@ -10,12 +10,12 @@ const geist = Geist({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: {
     default: SITE_TITLE,
-    template: `%s | Futurotek`,
+    template: `%s | Amedsi Peptides`,
   },
   description: SITE_DESCRIPTION,
   openGraph: {
     type: "website",
-    siteName: "Futurotek",
+    siteName: "Amedsi Peptides",
     title: SITE_TITLE,
     description: SITE_DESCRIPTION,
   },

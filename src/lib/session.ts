@@ -1,7 +1,7 @@
 import { SignJWT, jwtVerify } from "jose";
 import { cookies } from "next/headers";
 
-const COOKIE_NAME = "futurotek_admin_session";
+const COOKIE_NAME = "amedsipeptides_admin_session";
 const SESSION_MAX_AGE = 60 * 60 * 8; // 8 hours
 
 function getSecret(): Uint8Array {

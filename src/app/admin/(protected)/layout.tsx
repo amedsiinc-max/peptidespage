@@ -20,7 +20,7 @@ export default async function AdminLayout({
   return (
     <div className="min-h-screen bg-stone-50">
       <div className="bg-white border-b border-stone-200 px-4 py-3 flex items-center justify-between max-w-6xl mx-auto">
-        <span className="font-semibold text-stone-700">Futurotek Admin</span>
+        <span className="font-semibold text-stone-700">Amedsi Peptides Admin</span>
         <form action="/api/admin/logout" method="POST">
           <button
             type="submit"
