@@ -3,4 +3,4 @@ Allow: /
 Disallow: /admin
 Disallow: /api/
 
-Sitemap: https://amedsipeptides.vercel.app/sitemap.xml
+Sitemap: https://peptides.amedsi.com/sitemap.xml
